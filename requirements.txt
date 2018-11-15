@@ -1,1 +1,1 @@
-elasticsearch-curator==5.5.4
+elasticsearch-curator==5.6.0
