@@ -43,6 +43,7 @@ fi
 
 echo "Writing requirements.txt"
 echo "elasticsearch-curator==${CURATOR_VERSION}" > requirements.txt
+echo "PyYAML==3.13" >>requirements.txt # Temp. fix for https://github.com/elastic/curator/issues/1368
 
 ### ---- ###
 
