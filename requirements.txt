@@ -1,2 +1,2 @@
-elasticsearch-curator==5.7.6
+elasticsearch-curator==5.8.0
 PyYAML==3.13
